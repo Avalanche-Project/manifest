@@ -28,7 +28,7 @@ Then to sync up:
 ```bash
     repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 ```
-Compilation of Cherish OS:
+Compilation of Avalanche OS:
 ====================
 
 From root directory of Project, perform following commands in terminal
@@ -36,7 +36,7 @@ From root directory of Project, perform following commands in terminal
 
 ```bash
 . build/envsetup.sh
- lunch device-codename-userdebug
+ lunch ava_<devicecodename>-userdebug
  mka bacon -j$(nproc --all)
 ```
  -----------------------------------------------------------------------------
