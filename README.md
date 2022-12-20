@@ -1,8 +1,9 @@
 ![Avalanche](assets/avalanche.png)
-# <b> <i> Project Avalanche</i>
+Project Avalanche
+=================
 
 Getting Started:
-==============
+----------------
 
 Create the directories
 ----------------------
