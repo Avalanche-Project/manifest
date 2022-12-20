@@ -3,6 +3,17 @@
 
 Getting Started:
 ==============
+
+Create the directories
+----------------------
+
+As a first step, you'll have to create and enter a folder with the appropriate name.
+To do that, run these commands:
+
+```bash
+   mkdir avalanche
+   cd avalanche
+```
    
 To initialize your local repository, use a command like this:
 
