@@ -12,8 +12,8 @@ As a first step, you'll have to create and enter a folder with the appropriate n
 To do that, run these commands:
 
 ```bash
-   mkdir avalanche
-   cd avalanche
+mkdir avalanche
+cd avalanche
 ```
    
 To initialize your local repository, use a command like this:
