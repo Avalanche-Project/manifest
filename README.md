@@ -2,8 +2,8 @@
 Project Avalanche
 =================
 
-Getting Started:
-----------------
+Getting Started :
+-----------------
 
 Create the directories
 ----------------------
